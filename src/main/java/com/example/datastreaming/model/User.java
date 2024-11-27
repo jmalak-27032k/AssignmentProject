@@ -6,9 +6,8 @@ public class User {
     private String name;
     private String address;
     private LocalDate dateOfBirth;
+
     // Getters and Setters
-
-
     public void setName(String name) {
         this.name = name;
     }
